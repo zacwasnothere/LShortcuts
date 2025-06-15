@@ -24,11 +24,12 @@ No installation required. Just download and run the file.
 ###### Alternative Option Using The Command Line
 1. Type the following commands.
 - `cd ~/file_location` (Replace file_location with the executable file location)
-- `chmod +x LShortcuts
-./LShortcuts` (Or whatever it is called)
+- `chmod +x lshortcuts
+./lshortcuts` (Or whatever it is called)
 2. Press enter, the file should now be executable.
-3. Launch it via terminal or your files manager.
-#### 🛠️ Troubleshooting
+3. Launch it via terminal using `./lshortcuts` or your files manager.
+
+### 🛠️ Troubleshooting
 My shortcut doesn’t appear in the apps menu?
 → Make sure:
 - The .desktop file is saved in ~/.local/share/applications/
