@@ -40,7 +40,7 @@ A: Nothing happens when I run it?
 → Try launching from the python terminal to see errors:
 `python3 LShortcuts`
 
-B: My shortcut doesn’t appear in the app menu?
+B: My shortcut doesn’t appear in the apps menu?
 → Make sure:
 The .desktop file is saved in ~/.local/share/applications/
 The file has a valid Executable and Name field
