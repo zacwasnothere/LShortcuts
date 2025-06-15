@@ -27,7 +27,7 @@ No installation required. Just download and run the file.
 - `chmod +x file_name
 ./fle_name` (Replace file_name with the LShortcuts file name)
 2. Press enter, the file should now be executable.
-3. Type `~/Videos/file_name` (Replace file_name with the LShortcuts file name)
+3. Type `~/file_location/file_name` (Replace file_name and file_location with the LShortcuts file name and location)
 
 #### 🛠️ Troubleshooting
 A: Nothing happens when I run it?
