@@ -37,7 +37,7 @@ chmod +x ~/.local/bin/lshortcuts`
 
 #### 🛠️ Troubleshooting
 A: Nothing happens when I run it?
-→ Try launching from the python terminal to see errors:
+→ Try launching from the python terminal to see errors, it may also launch this way:
 - `python3 LShortcuts`
 
 B: My shortcut doesn’t appear in the apps menu?
