@@ -23,12 +23,11 @@ No installation required. Just download and run the file.
 
 ###### Alternative Option Using The Command Line
 1. Type the following commands.
-- `cd ~/file_location` (Replace file_location with the LShortcuts file location)
-- `chmod +x file_name
-./fle_name` (Replace file_name with the LShortcuts file name)
+- `cd ~/file_location` (Replace file_location with the executable file location)
+- `chmod +x LShortcuts
+./LShortcuts` (Or whatever it is called)
 2. Press enter, the file should now be executable.
-3. Type `~/file_location/file_name` (Replace file_name and file_location with the LShortcuts file name and location)
-
+3. Launch it via terminal or your files manager.
 #### 🛠️ Troubleshooting
 My shortcut doesn’t appear in the apps menu?
 → Make sure:
