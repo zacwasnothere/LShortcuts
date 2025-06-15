@@ -31,7 +31,7 @@ No installation required. Just download and run the file.
 ###### Optional: Add it to your PATH
 1. Type the following commands.
 - `mkdir -p ~/.local/bin
-mv ~/`Enter file location)`/LShortcuts ~/.local/bin/lshortcuts
+mv ~/`(Enter file location)`/LShortcuts ~/.local/bin/lshortcuts
 chmod +x ~/.local/bin/lshortcuts`
 2. Press enter and type LShortcuts
 
