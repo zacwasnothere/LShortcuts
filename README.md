@@ -25,7 +25,7 @@ No installation required. Just download and run the file.
 1. Type the following commands.
 - `cd ~/Downloads` (Or wherever you saved the executable)
 - `chmod +x LShortcuts
-./LShortcuts`
+./LShortcuts` (Or whatever your file is called)
 2. Press enter.
 
 ###### Optional: Add it to your PATH
