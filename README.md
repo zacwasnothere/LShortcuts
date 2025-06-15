@@ -23,14 +23,14 @@ No installation required. Just download and run the file.
 
 ###### Alternative Option Using The Command Line
 1. Type the following commands.
-`cd ~/Downloads` (Or wherever you saved the executable)
-`chmod +x LShortcuts
+- `cd ~/Downloads` (Or wherever you saved the executable)
+- `chmod +x LShortcuts
 ./LShortcuts`
 2. Press enter.
 
 ###### Optional: Add it to your PATH
 1. Type the following commands.
-`mkdir -p ~/.local/bin
+- `mkdir -p ~/.local/bin
 mv ~/Downloads/LShortcuts ~/.local/bin/lshortcuts
 chmod +x ~/.local/bin/lshortcuts`
 2. Press enter.
@@ -38,7 +38,7 @@ chmod +x ~/.local/bin/lshortcuts`
 #### 🛠️ Troubleshooting
 A: Nothing happens when I run it?
 → Try launching from the python terminal to see errors:
-`python3 LShortcuts`
+- `python3 LShortcuts`
 
 B: My shortcut doesn’t appear in the apps menu?
 → Make sure:
