@@ -30,11 +30,7 @@ No installation required. Just download and run the file.
 3. Type `~/file_location/file_name` (Replace file_name and file_location with the LShortcuts file name and location)
 
 #### 🛠️ Troubleshooting
-A: Nothing happens when I run it?
-→ Try launching from the python terminal to see errors, it may also launch this way:
-- `python3 file_name` (Replace file_name with the LShortcuts file name)
-
-B: My shortcut doesn’t appear in the apps menu?
+My shortcut doesn’t appear in the apps menu?
 → Make sure:
 - The .desktop file is saved in ~/.local/share/applications/
 - The file has a valid Executable and Name field.
