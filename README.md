@@ -1,31 +1,51 @@
-# LShortcuts
+LShortcuts
 
-LShortcuts is a free and open source software that helps users to create and edit `.desktop` files on your Linux system for your applications, scripts or other stuff. These will appear in your apps menu.
+LShortcuts is a free and open source Linux utility that helps you to create and remove .desktop files. These are what make applications and executables show up in your apps menu.
 
-## Features
+No installation required. Just download and run the file.
 
-- Ease of use GUI to create and delete `.desktop` shortcuts directly in your apps menu.
-- Works on most Linux distributions.
-- No installation required.
-###### ![Screenshot From 2025-06-14 19-30-54](https://github.com/user-attachments/assets/138a3219-fc3b-4eb2-847e-81eb04a9ad30)
 
-## How to Download
+## ✨ Features
 
-1. Navigate to releases.
-2. Select the release of your choice, the latest release is recommended.
-3. Scroll down until you find the Linux executable.
-4. Click on 'LShortcuts' to download it.
+- Easy of use GUI to create and remove .desktop shortcuts to your applications menu.
+- Portable — run directly without installation.
+- Works on most Linux distributions and desktop environments.
+###### ![image](https://github.com/user-attachments/assets/b0be8765-48ad-43bf-90c9-ad71cb7240a7)
 
-### Run the App
-1. Open your files manager and go to the folder where you saved the file.
-2. Right click on the program and select 'Properties'
-3. Click 'Executable as Program'
-4. Run the program.
+## 📦 Download
 
-## Notes
-- It may require some more setup to get it working.
-- This is for Linux systems only.
-- You may need python installed, though it is installed by default on most Linux distributions.
+1. Navigate to the Releases page.
+2. Select the release of your choice (the latest release is recommended).
+3. Click on LShortcuts.
+4. Locate the executable in your files manager.
+5. Right click on the executable and select `properties`
+6. Enable `Executable as Program`
+
+###### Alternative Option Using The Command Line
+1. Type the following commands.
+`cd ~/Downloads` Or wherever you saved the executable.
+`chmod +x LShortcuts
+./LShortcuts`
+2. Press enter.
+
+###### Optional: Add it to your PATH
+1. Type the following commands.
+`mkdir -p ~/.local/bin
+mv ~/Downloads/LShortcuts ~/.local/bin/lshortcuts
+chmod +x ~/.local/bin/lshortcuts`
+2. Press enter.
+
+#### 🛠️ Troubleshooting
+A: Nothing happens when I run it?
+→ Try launching from the python terminal to see errors:
+`python3 LShortcuts`
+
+B: My shortcut doesn’t appear in the app menu?
+→ Make sure:
+The .desktop file is saved in ~/.local/share/applications/
+The file has a valid Executable and Name field
+You’ve refreshed your applications cache (log out or restart the shell.
 
 ## License
-This repository uses the Apache 2.0 License.
+
+This project is licensed under the [Apache License 2.0](https://github.com/zacwasnothere/LShortcuts/blob/main/LICENSE).
