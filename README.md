@@ -42,9 +42,9 @@ A: Nothing happens when I run it?
 
 B: My shortcut doesn’t appear in the apps menu?
 → Make sure:
-The .desktop file is saved in ~/.local/share/applications/
-The file has a valid Executable and Name field
-You’ve refreshed your applications cache (log out or restart the shell.
+- The .desktop file is saved in ~/.local/share/applications/
+- The file has a valid Executable and Name field.
+- You’ve refreshed your applications cache (log out or restart the shell).
 
 #### Notes
 - It may require extra setup to get working.
