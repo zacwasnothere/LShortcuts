@@ -46,6 +46,11 @@ The .desktop file is saved in ~/.local/share/applications/
 The file has a valid Executable and Name field
 You’ve refreshed your applications cache (log out or restart the shell.
 
+#### Notes
+- It may require extra setup to get working.
+- Created in python.
+- For Linux only.
+
 ## License
 
 This project is licensed under the [Apache License 2.0](https://github.com/zacwasnothere/LShortcuts/blob/main/LICENSE).
