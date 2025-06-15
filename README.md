@@ -23,17 +23,11 @@ No installation required. Just download and run the file.
 
 ###### Alternative Option Using The Command Line
 1. Type the following commands.
-- `cd ~/Downloads` (Or wherever you saved the executable)
-- `chmod +x LShortcuts
-./LShortcuts` (Or whatever your file is called)
+- `cd ~/file_location` (Replace file_location with the LShortcuts file location)
+- `chmod +x file_name
+./fle_name` (Replace file_name with the LShortcuts file name)
 2. Press enter, the file should now be executable.
-
-###### Optional: Add it to your PATH
-1. Type the following commands.
-- `mkdir -p ~/.local/bin
-mv ~/`(Enter file location)`/LShortcuts ~/.local/bin/lshortcuts
-chmod +x ~/.local/bin/lshortcuts`
-2. Press enter and type LShortcuts
+3. Type `~/Videos/file_name` (Replace file_name with the LShortcuts file name)
 
 #### 🛠️ Troubleshooting
 A: Nothing happens when I run it?
