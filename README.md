@@ -39,7 +39,7 @@ My shortcut doesn’t appear in the apps menu?
 - It may require extra setup to get working.
 - Created in python.
 - For Linux only.
-- It may not work on all Linux distributions.
+- This is a one script program.
 
 ## License
 This project is licensed under the [Apache License 2.0](https://github.com/zacwasnothere/LShortcuts/blob/main/LICENSE).
