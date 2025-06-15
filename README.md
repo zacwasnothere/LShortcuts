@@ -23,7 +23,7 @@ No installation required. Just download and run the file.
 
 ###### Alternative Option Using The Command Line
 1. Type the following commands.
-`cd ~/Downloads` Or wherever you saved the executable.
+`cd ~/Downloads` (Or wherever you saved the executable)
 `chmod +x LShortcuts
 ./LShortcuts`
 2. Press enter.
