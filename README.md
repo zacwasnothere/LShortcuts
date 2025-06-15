@@ -1,8 +1,6 @@
 LShortcuts
 
-LShortcuts is a free and open source Linux utility that helps you to create and remove .desktop files. These are what make applications and executables show up in your apps menu.
-
-No installation required. Just download and run the file.
+LShortcuts is a free and open source ease of use Linux utility that helps you to create and remove .desktop files.
 
 
 ## ✨ Features
