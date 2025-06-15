@@ -32,7 +32,7 @@ No installation required. Just download and run the file.
 #### 🛠️ Troubleshooting
 A: Nothing happens when I run it?
 → Try launching from the python terminal to see errors, it may also launch this way:
-- `python3 LShortcuts`
+- `python3 file_name` (Replace file_name with the LShortcuts file name)
 
 B: My shortcut doesn’t appear in the apps menu?
 → Make sure:
