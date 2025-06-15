@@ -32,15 +32,14 @@ No installation required. Just download and run the file.
 ### 🛠️ Troubleshooting
 My shortcut doesn’t appear in the apps menu?
 → Make sure:
-- The .desktop file is saved in ~/.local/share/applications/
-- The file has a valid Executable and Name field.
+- The file has a valid executable and name field.
 - You’ve refreshed your applications cache (log out or restart the shell).
 
 #### Notes
 - It may require extra setup to get working.
 - Created in python.
 - For Linux only.
+- It may not work on all Linux distributions.
 
 ## License
-
 This project is licensed under the [Apache License 2.0](https://github.com/zacwasnothere/LShortcuts/blob/main/LICENSE).
